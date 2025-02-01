@@ -1,6 +1,6 @@
 # API Documentation
 
-## **1. Rota: Login do usuário**
+## 1. Rota: Login do usuário
 
 #### Endpoint
 `POST /login`
